@@ -1,6 +1,13 @@
 ---
-author:
-- Javier Quesada
+creator:
+- role: author
+  text: Javier Quesada
+- role: editor
+  text: Jaime Caballero
+identifier:
+- scheme: DOI
+  text: "doi:10.234234.234/33"
+rights: © 2020 Javier Quesada, CC BY-NC
 title: Cuarentena Workout
 ---
 
@@ -21,3 +28,17 @@ title: Cuarentena Workout
 -   Empuje con peso o toalla x 10
 
 ### Parte final: Tabata 16x 35'' + 10" Rest
+
+------------------------------------------------------------------------
+
+## Entreno 19/03
+
+### Calentamiento 3 vueltas
+
+Flexiones x 10 Zancadas x 20 Plancha pro x 30'' Plancha Lat x 30''
+
+### Parte principal: EMON 10' cada 1' repetimos
+
+Sentadillas x 10 Peso muerto x 10 Press hombro en silla x 8
+
+\#\#\# Parte final: Tabata 15x 35''+ 10"Rest
