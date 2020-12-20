@@ -1,0 +1,43 @@
+Arguments: 
+  /usr/local/Cellar/node/15.4.0/bin/node /Users/jaicab/.yarn/bin/yarn.js epub
+
+PATH: 
+  /Users/jaicab/.rvm/gems/ruby-2.5.2/bin:/Users/jaicab/.rvm/gems/ruby-2.5.2@global/bin:/Users/jaicab/.rvm/rubies/ruby-2.5.2/bin:/usr/local/opt/node@10/bin:/usr/local/opt/node@10/bin:/Users/jaicab/.yarn/bin:/Users/jaicab/.config/yarn/global/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/Library/Apple/usr/bin:/Users/jaicab/.rvm/bin
+
+Yarn version: 
+  1.19.1
+
+Node version: 
+  15.4.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/jaicab/Documents/Work/cuarentena-workout/package.json: Unexpected token } in JSON at position 372
+      at JSON.parse (<anonymous>)
+      at /Users/jaicab/.yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/Users/jaicab/.yarn/lib/cli.js:304:30)
+      at /Users/jaicab/.yarn/lib/cli.js:315:13
+
+npm manifest: 
+  {
+    "name": "cuarentena-workout",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/jaicab/cuarentena-workout.git",
+    "author": "Jaime Caballero <me@jaicab.com>",
+    "license": "MIT",
+    "scripts": {
+      "epub": "pandoc -s book.md -o output/book.md",
+      "pdf": "pandoc -s book.md -o output/book.pdf",
+      "build": "yarn epub && yarn pdf"
+    },
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

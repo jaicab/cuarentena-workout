@@ -1,0 +1,13 @@
+{
+  "name": "cuarentena-workout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jaicab/cuarentena-workout.git",
+  "author": "Jaime Caballero <me@jaicab.com>",
+  "license": "MIT",
+  "scripts": {
+    "epub": "pandoc --smart -s book.md -o output/book.md",
+    "pdf": "pandoc --smart -s book.md -o output/book.pdf",
+    "build": "yarn epub && yarn pdf"
+  }
+}
