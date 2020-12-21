@@ -1,5 +1,3 @@
-\newpage
-
 # Entreno 18/03
 
 ## Calentamiento
@@ -23,5 +21,3 @@ AMRAT 12’
 ## Parte final
 
 Tabata 16x 35’’ + 10” Rest
-
-\newpage

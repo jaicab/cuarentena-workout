@@ -33,5 +33,3 @@ EMON 10’ cada 1’ tenemos que hacer
 - 20 rodillas arriba
 - 25 multisaltos
 - 5 abajo y arriba
-
-\newpage

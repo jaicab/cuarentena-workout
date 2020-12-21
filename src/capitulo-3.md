@@ -21,5 +21,3 @@ AMRAT 12’
 ## Parte final
 
 Tabata 15x 35’’+ 10” Rest
-
-\newpage

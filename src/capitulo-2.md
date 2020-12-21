@@ -20,5 +20,3 @@ EMON 10’ cada 1’ repetimos
 ## Parte final
 
 Tabata 15x 35’’+ 10”Rest
-
-\newpage

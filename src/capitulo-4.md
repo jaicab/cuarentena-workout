@@ -27,5 +27,3 @@ EMON 10’ cada 1’ tenemos que hacer
 - 20 jumping jacks
 - 20 ecaladores
 - 20 rodillas arriba
-
-\newpage

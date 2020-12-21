@@ -23,5 +23,3 @@ AMRAT 15’
 ## Parte final
 
 HIIT 20 x 30” + 10”
-
-\newpage

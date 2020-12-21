@@ -3,4 +3,9 @@ metadata-files:
 table-of-contents: true
 toc-depth: 1
 variables:
+  documentclass: book
   papersize: a5
+  geometry:
+    - top=0mm
+    - heightrounded
+  thanks: To Caballero
