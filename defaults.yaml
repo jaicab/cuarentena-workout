@@ -1,0 +1,6 @@
+metadata-files:
+  - metadata.yaml
+table-of-contents: true
+toc-depth: 1
+variables:
+  papersize: a5

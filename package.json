@@ -6,8 +6,8 @@
   "author": "Jaime Caballero <me@jaicab.com>",
   "license": "MIT",
   "scripts": {
-    "epub": "pandoc -s book.md -o output/book.md",
-    "pdf": "pandoc -s book.md -o output/book.pdf",
+    "epub": "pandoc -s src/*.md -o dist/book.epub --defaults=defaults.yaml",
+    "pdf": "pandoc -s src/*.md -o dist/book.pdf --defaults=defaults.yaml",
     "build": "yarn epub && yarn pdf"
   }
 }
