@@ -4,9 +4,12 @@ table-of-contents: true
 toc-depth: 1
 variables:
   documentclass: book
-  classoption: openany
+  classoption:
+    - openany
+    - twoside
   papersize: a5
-  mainfont: LiberationSans
-  fontsize: 11pt
+  fontsize: 10pt
+  fontfamily: lmodern
+  numbersections: false
   geometry:
-    - top=0in
+    - top=1in

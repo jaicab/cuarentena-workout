@@ -1,4 +1,6 @@
 title: Cuarentena Workout
+author: Javier Quesada
+lang: es-ES
 creator:
   - role: author
     text: Javier Quesada
@@ -8,5 +10,8 @@ identifier:
   - scheme: DOI
     text: doi:10.234234.234/33
 rights: © 2020 Javier Quesada, CC BY-NC
-language: es-ES
 css: epub.css
+header-includes:
+  - \usepackage{lmodern}
+  - \renewcommand*\familydefault{\sfdefault}
+  - \usepackage[T1]{fontenc}
